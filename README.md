@@ -54,4 +54,5 @@ Created bar charts using Matplotlib to visually compare employee salaries and de
 Employee_HR_Analytics/
 │
 ├── main.py
-└── README.md
+├── README.md
+└── requirements.txt
