@@ -56,3 +56,12 @@ Employee_HR_Analytics/
 ├── main.py
 ├── README.md
 └── requirements.txt
+## Data Visualizations
+
+### Employee Salary Comparison
+
+![Employee Salary Comparison](employee_salary_comparison.png.png)
+
+### Department Salary Analysis
+
+![Department Salary Analysis](employee_salary_department.png.png)
