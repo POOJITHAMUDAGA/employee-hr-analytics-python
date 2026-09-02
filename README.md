@@ -1,4 +1,7 @@
-# Employee HR Analytics
+# Employee HR Analytics using Python
+A Python-based HR analytics project that analyzes employee salary, experience, department, and designation data to generate meaningful insights and visualizations.
+
+
 
 ## Project Overview
 
@@ -24,7 +27,18 @@ The project uses Python to process employee data, perform statistical analysis, 
 - Matplotlib
 - Basic Python data structures
 - Data analysis techniques
+- Data Visualization
 
+## Key Skills Demonstrated
+
+- Data cleaning and analysis
+- Salary and experience analysis
+- Department-wise analysis
+- Designation-wise analysis
+- Data visualization
+- Python programming
+- Business insights from employee data
+  
 ## Key Analysis Performed
 
 ### 1. Experience Analysis
