@@ -48,6 +48,7 @@ Identified the highest-paid and lowest-paid employees within each department.
 ### 7. Data Visualization
 Created bar charts using Matplotlib to visually compare employee salaries and department-level average salaries.
 
+
 ## Project Structure
 
 ```text
@@ -55,14 +56,18 @@ Employee_HR_Analytics/
 │
 ├── main.py
 ├── README.md
-└── requirements.txt
+├── requirements.txt
+├── employee_salary_comparison.png.png
+└── employee_salary_department.png.png
 
+```markdown
 ## Data Visualizations
 
 ### Employee Salary Comparison
 
-![Employee Salary Comparison](employee_salary_comparison.png.png)
+![Employee Salary Comparison](employee_salary_comparison.png)
 
 ### Department Salary Analysis
 
-![Department Salary Analysis](employee_salary_department.png.png)
+![Department Salary Analysis](employee_salary_department.png)
+
