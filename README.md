@@ -65,9 +65,9 @@ Employee_HR_Analytics/
 
 ### Employee Salary Comparison
 
-![Employee Salary Comparison](employee_salary_comparison.png)
+![Employee Salary Comparison](employee_salary_comparison.png.png)
 
 ### Department Salary Analysis
 
-![Department Salary Analysis](employee_salary_department.png)
+![Department Salary Analysis](employee_salary_department.png.png)
 
