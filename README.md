@@ -60,7 +60,7 @@ Employee_HR_Analytics/
 ├── employee_salary_comparison.png.png
 └── employee_salary_department.png.png
 
-```markdown
+```
 ## Data Visualizations
 
 ### Employee Salary Comparison
